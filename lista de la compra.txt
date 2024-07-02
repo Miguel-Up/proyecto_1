@@ -12,3 +12,7 @@ nata liquida
 galleta
 caramelo
 canela
+Ron
+zumo de grosella
+hielo
+naranja
