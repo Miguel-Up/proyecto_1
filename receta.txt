@@ -4,4 +4,5 @@ Tortilla de patatas
    -batir huevos
    
  Paso 1: Freir las patatas 
- Paso 2: Freir cebolla  
+ Paso 2: Freir cebolla
+ Paso 3: Juntar con los huevos y terminar la tortilla  
